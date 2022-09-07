@@ -1,1 +1,1 @@
-display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Replace all characters A and c from input to Z and e respectively
