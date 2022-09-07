@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bah
 ln -s /bin/ls _ls_
