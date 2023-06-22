@@ -1,4 +1,4 @@
-Power outage incident report May 11th, 2023 By Salawu O. Joseph
+Power outage incident report May 11th, 2023 By Agha Ogbonna Joseph 
 
 Issue Summary:
 
